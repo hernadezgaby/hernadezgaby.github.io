@@ -1,0 +1,24 @@
+body {
+    color: red;
+}
+header {
+    background-color: orange;
+    color: white;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+footer {
+    background-color: #E5E4E2;
+}
+.intro {
+    background-color: green;
+    max-width: 500px;
+    text-align: left;
+}
+.centered {
+    color: turquoise;
+}
+.pie_de_pagina {
+    background-color: red;
+}
